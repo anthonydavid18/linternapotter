@@ -1,0 +1,7 @@
+{
+  "name": "mylinterna",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
