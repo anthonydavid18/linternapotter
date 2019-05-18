@@ -1,5 +1,5 @@
 {
-  "name": "Lumos y Nox",
+  "name": "lumos",
   "version": "0.0.1",
   "author": "Studio Web",
   "homepage": "https://ionicframework.com/",
@@ -80,9 +80,8 @@
       "cordova-plugin-ionic-webview": {
         "ANDROID_SUPPORT_ANNOTATIONS_VERSION": "27.+"
       },
-      "cordova-plugin-ionic-keyboard": {},
-      "cordova-plugin-admob-free": {
-        "ADMOB_APP_ID": "ca-app-pub-4598309116922893~8600204977"
+      "cordova-plugin-ionic-keyboard": {
+        
       }
     },
     "platforms": [
